@@ -1,1 +1,1 @@
-# PKGBUILDS
+# PKGBUILDS For NimaOS packages :)
